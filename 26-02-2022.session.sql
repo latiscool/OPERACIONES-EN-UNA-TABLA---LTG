@@ -111,7 +111,7 @@
 -- ('25-02-2022 17:05:00','Comentario CINCO Margarita',7);
 
 
-    <img src="https://drive.google.com/file/d/1RlcxxslpXm2YCmRoPjDmRQ_DwYeYSaej/view" alt="SELECT*FROM post">
+<a href="https://ibb.co/JQMZwVV"><img src="https://i.ibb.co/16wct11/Snag-26d30f6.png" alt="Snag-26d30f6" border="0"></a>
 
 
 -- RELACIONANDO Tabla post con Tabla comentarios
