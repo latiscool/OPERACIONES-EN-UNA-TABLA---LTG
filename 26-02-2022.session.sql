@@ -111,6 +111,8 @@
 -- ('25-02-2022 17:05:00','Comentario CINCO Margarita',7);
 
 
+    <img src="https://drive.google.com/file/d/1RlcxxslpXm2YCmRoPjDmRQ_DwYeYSaej/view?usp=sharing" alt="SELECT*FROM post">
+
 
 -- RELACIONANDO Tabla post con Tabla comentarios
 --  **********************************************************************************
