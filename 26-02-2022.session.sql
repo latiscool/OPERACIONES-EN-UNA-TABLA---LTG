@@ -110,10 +110,6 @@
 -- ('24-02-2022 17:04:00','Comentario CUATRO Margarita',7),
 -- ('25-02-2022 17:05:00','Comentario CINCO Margarita',7);
 
-
-<a href="https://ibb.co/JQMZwVV"><img src="https://i.ibb.co/16wct11/Snag-26d30f6.png" alt="Snag-26d30f6" border="0"></a>
-
-
 -- RELACIONANDO Tabla post con Tabla comentarios
 --  **********************************************************************************
 -- SELECT post.nombre_usuario AS Usuario, post.titulo AS TITULO, post.fecha_de_creacion AS Fecha,
