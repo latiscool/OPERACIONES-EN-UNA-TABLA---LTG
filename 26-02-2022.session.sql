@@ -4,13 +4,15 @@
 
 --  2) Crear una tabla “post”, con los atributos id, nombre de usuario, fecha de creación, contenido y descripción.
 -- ****************************************************************************************************************
--- CREATE TABLE post (
---   id_post SERIAL UNIQUE PRIMARY KEY ,
---   nombre_usuario VARCHAR(25) NOT NULL,
---   fecha_de_creacion DATE NOT NULL,
---   contenido VARCHAR(500) NOT NULL,
---   contenido VARCHAR(140) NOT NULL
---   );
+
+CREATE TABLE post (
+  id_post SERIAL UNIQUE PRIMARY KEY ,
+  nombre_usuario VARCHAR(25) NOT NULL,
+  fecha_de_creacion DATE NOT NULL,
+  contenido VARCHAR(500) NOT NULL,
+  descripcion VARCHAR(140) NOT NULL
+  );
+
 
 -- 3)Insertar 3 post, 2 para el usuario "Pamela" y uno para "Carlos"
 -- ****************************************************************************
